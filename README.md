@@ -1,4 +1,4 @@
-js# 💫 About Me:
+💫 About Me:
 🔭 Currently building an independent tech product, exploring full-stack development, and turning innovative ideas into real-world applications.<br><br>👯 Looking to collaborate on full-stack projects, AI-powered applications, open-source contributions, and innovative technology ventures.<br><br>🤝 Always open to learning more about system design, backend engineering, scalable applications, AI/ML, and cloud technologies.<br><br>🌱 **Currently pursuing B.Tech in Computer Science and Engineering (CSE), specializing in Artificial Intelligence & Machine Learning (AI & ML).** Exploring JavaScript, MERN Stack, Data Structures & Algorithms, Machine Learning, Deep Learning, and System Design.<br><br>💬 Ask me about programming, web development, AI/ML, building projects, entrepreneurship, and technology.<br><br>⚡ I love turning ambitious ideas into reality. I don't just want to use technology; I want to build things that make a difference.
 
 
